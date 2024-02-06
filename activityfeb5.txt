@@ -1,0 +1,4 @@
+Example of abstraction is your house , this was not said in class .
+The diffrence between a float and a interger is that a float is like a decimal place and a Interger is like a sub in for something .
+The variable for python is something that stores values , variables are used to abstract data by finding the missing variable to help abstract the data .
+A situation where I would use a boolean data in my program is when I want to check in my data is correct or not I can use the boolean data to see if my work Is true or false .
