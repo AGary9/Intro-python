@@ -25,7 +25,7 @@ From past knowledge I believe a variable Is a Unknown Qualiy or entity .
 # What your client would like to happen is that when a user is a member AND 
 #  also has the gold membership they should be able to use the pool.
 # Which python operator would you use in this situation? Explain why.
-I would use the assignment operator for this prompt . 
+I would use the Logical operator for this prompt . 
 # 6. You have been hired as a software engineer to develop a simple payment system for a companys 
 # webstore. Your assignment is to create a cart system where the prices of all 
 # the items are added together and then deducts a 20% discount at checkout. 

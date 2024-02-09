@@ -1,0 +1,8 @@
+# Functions - Blocks of code that only run when we call them . 
+# Blocks fo ccode are Just Instruction . 
+# When we call them .
+#built - functions - Blocks of code that have already been written for us .
+Print()
+
+Input()
+
