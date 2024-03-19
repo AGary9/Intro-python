@@ -23,4 +23,4 @@ a= 1  h = 5 (15)
 a =1 w= . r=3 v=3 f=0
 q= y u= e h=s
 My phone helped me in a unexpected way because i was lost and i hd remebered i had a gps on it and i used it to get where i needed to go .
-I would probably be bored if i lost technology , I would need entertain myself different like watching tv because itll be gone .
+I would probably be bored if i lost technology , I would need entertain myself different like watching tv because itll be gone .else
