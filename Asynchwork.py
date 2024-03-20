@@ -9,7 +9,7 @@ value = 2+2
 # less than <
 # equal/ the same ==
 # not equal/ not the same !=
-
+ 
 # Logical 
 # AND - The action that allows us to check if two statesment are true. 
 # OR -The action that allows us to check if one of two statesment are true. 
