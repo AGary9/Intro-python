@@ -1,0 +1,3 @@
+The difference between a for loop and a While loop Is that a for loop Is used for when the number of iterations Is known , a While loop Is until the statement is proven wrong.
+The best ideal scenario for a for loop is when the for loop is when you know the number of iterations ahead of time .
+The best Ideal scenario for a while loop Is when you dont know the number of iterations ahead of time.

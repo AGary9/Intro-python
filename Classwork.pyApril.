@@ -1,0 +1,20 @@
+Notes - Python Loops helps us repeat things over and over again.
+
+While Loop - A while loop Is a type of loop that will rerpeat a set of Instructions so long as the looping condition Is true.
+
+For Loop - A for the loop Is a type that will loop through a group of data , such as a list dictionary or string.
+
+How we would write a for Loop - 
+
+# FOR LOOP - A Construct that will reapeat a set of Instructions
+# for a list / Group of data.
+
+birdgame = [ ' duck' , ' duck ' , ' duck ' ,  ' goose ' , ' duck ' , ' duck ']
+
+for x  bird in birdGame : 
+    Print(x)
+
+    while x == birdgame [0]: # While loops will run forever for a list / group of data - For loops will only run up to the items in the group - While loops will run forever as long as the conditon Is true.
+          Print(x)
+
+Spade = [ '1 , 2 , 3 , 4 , SJ , SQ , SK , SA]
