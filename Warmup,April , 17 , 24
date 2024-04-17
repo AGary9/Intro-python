@@ -1,0 +1,61 @@
+# Warm up Tuesday April 16th, 2024.
+
+import random
+
+# 1. In your own words, explain the difference between an Python For Loop and a
+# Python While Loop.
+
+# A for Loop Is Iterated over a sequence of Items , While loop Is repeatedly executed.
+
+
+# 2. Create a loop that will iterate over a list of numbers. For evey number in your loop,
+# it should multiply that number by 3. 
+
+# Keywords  - Loop  , For Loop to Iterate over numbers , Everytime or loop lands on a number  - Multiply by 3.
+# List of numbers
+
+numbers = [1 , 2 , 3 , 4 , 5 , 6 , 7 ,]
+
+for number in numberslist: # for every Item in this list . . .
+    Print( number *3) # multiply that item by 3  . . .
+
+
+
+# 3. Use the following code snippet below to create a guessing game function. 
+# The code below will generate a random number for you. You must write a loop that will
+# ask the user to input their guess, if they guess incorrectly, the program will repeat 
+# itself and ask the user to guess again. The program should continue to ask them to
+# guess until they've gotten it correctly. Once they guess the correct number the program
+# will congratulate them and the loop will stop. 
+
+# Keywords - 
+
+# Function - This tells me that I have to Instruct the computer to create something.
+# Loop - This tells me that this will me a loop function.
+# Input - This tells me that I have to Input data.
+
+# Clues - 
+
+# Program will repeat itself : if the number Is not corrct guess  , the program will repeat its self , well need to creat a function to store it , well use the Input function to toake the user guess.
+
+def guessingGame():
+    randomNumber = random. randit (1 , 10)
+Print(f'Random number value is: { randomNumber}')
+i = int( Input('please guess a number'))
+    While condition is true: # While this Is true 
+    # ask the user to enter a guess.
+    # This loop will only stop when they get the answer correct.
+
+WHile i == randomnumber: # While this is true . . . 
+    Print('Incorrect guess, try again.')
+i = int (Input('Please guess a number'))
+
+# Generates a random number between 1 and 10
+randomNumber = random. randit (1 , 10)
+Print(f'Random number value is: { randomNumber}')
+
+
+# generates a random number between 1 and 10
+randomNumber = random.randint(1, 10)
+
+print('Random number value is: {randomNumber}')
